@@ -1,4 +1,4 @@
-# exercise-tracker
+# exercise-tracker-MERN
 
 Full stack MERN applications
 
